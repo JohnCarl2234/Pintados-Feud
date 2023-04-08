@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./public/title.png" alt="title logo" width="200"/>
   
-This app is currently available at ➡ https://famf.app
+This app is currently available at ➡ bit.ly/pintados_feud
 
 _(it might take a minute to load as it becomes un-suspended from render.com)_
 
